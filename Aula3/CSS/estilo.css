@@ -1,0 +1,43 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+h1, h2{
+
+    color: purple;
+}
+
+h1{
+    text-align: center;
+}
+a{
+    color: black;
+    text-decoration: none;
+    border: 2px solid black;
+    padding: 15px 10px;
+    border-radius: 15px;
+    background-color: yellow;
+}
+a:hover{
+    color: black;
+    background-color: green;
+}
+
+.divs{
+    background-color: silver;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    
+}
+
+.navegacao{
+    margin: 20px;
+}
+
+img{
+    border: 20px solid silver;
+    border-radius: 15px;
+    max-height: 150px;
+    margin: 20px;
+}

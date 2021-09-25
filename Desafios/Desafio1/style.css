@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+}
+header{
+    background-image: url("fundo.jpg");    
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position: 0% 0%;
+    background-size: 100% 100% ;
+    border: solid 5px;
+    border-radius: 15px;
+    padding: 80px;
+    margin: 35px;
+    margin-top: 10px;
+}
+h1{
+    color: white
+}
+
+#seletor{
+    display: flex;
+    align-content: space-between;
+    
+}
+
+
+
+
+button{
+    margin: 35px;
+    padding: 20px;
+    background-color: blue;
+    color: white;
+    font-size: 25px;
+    border-radius: 15px;
+    align-content: space-between;
+    
+    
+}

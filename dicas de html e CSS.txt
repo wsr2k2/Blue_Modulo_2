@@ -1,0 +1,59 @@
+como fazer o flex container
+
+escolher o que quer que faça parte do container e no css colocar
+
+display: flex;
+
+
+______________________
+
+CSS
+
+*{ // o * pega tudo que tem no html
+margin: 0px;
+padding: 0px
+}
+
+__________________
+background CSS
+
+body {
+    background-image: url("../media/image/background.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position: 0% 0%;
+    background-size: 100% 100%;
+
+____________________
+
+CSS
+flex wrap = quebra de texto para nao rolar a pagina para o lado, apenas para baixo
+
+
+___________
+
+CSS
+flex flow = define o wrap e direção juntos
+
+_________________
+
+justify-content = flex-start / space-between
+_____________
+
+CSS = para aumentar a faixa de cima do site ou qq outra faixa (seção)
+height = 400px (exemplo)
+
+
+________________
+
+
+para usar a responsividade melhor utilizar medidas em % ao inves de px
+
+_______________
+
+
+adicionar botão no html
+<button id="btn-texto">Adicionar texto</button>
+____________
+
+https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
